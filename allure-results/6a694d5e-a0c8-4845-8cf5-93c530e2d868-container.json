@@ -1,0 +1,1 @@
+{"uuid":"6a694d5e-a0c8-4845-8cf5-93c530e2d868","name":"Api.Jokes.beforeMethod","children":["32c5ea74-afa3-4f2f-aa8b-7cf8683efcb1"],"description":"","befores":[{"name":"beforeMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1637834675517,"stop":1637834675522}],"afters":[],"start":1637834675517,"stop":1637834675522}

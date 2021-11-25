@@ -1,0 +1,1 @@
+{"uuid":"6d0f9a12-b5d1-4c50-8fa6-1147dcbfad99","name":"Api.Crud","children":["37270ade-20b2-4f87-ace0-c5959aaaeb6b"],"befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1637832679508,"stop":1637832680166}],"afters":[],"start":1637832679472,"stop":1637832682635}
